@@ -1,0 +1,7 @@
+feature,coefficient,direction
+credit_score,-0.5764109200409928,lower PD
+oltv,0.19886106359256048,higher PD
+dti,0.3837791976837471,higher PD
+orig_upb,0.08996229208050793,higher PD
+orig_interest_rate,0.15036538986676698,higher PD
+intercept,-0.3055883503418556,

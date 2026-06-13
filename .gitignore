@@ -1,0 +1,16 @@
+data/
+venv/
+__pycache__/
+*.pyc
+*.joblib
+*.parquet
+*.DS_Store
+.vscode/
+anaconda_projects/
+.ipynb_checkpoints/
+*.tmp
+*.xlsx
+proposal.docx
+src/__pycache__/
+src/models/__pycache__/
+notebooks/.ipynb_checkpoints/
